@@ -2,7 +2,7 @@ D. Is Sorted?
 
 import java.util.Scanner;
 public class Main {
-    public static void main(String[] args) {
+    public static void issorted(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int T = scanner.nextInt();
         for (int t = 0; t < T; t++) {

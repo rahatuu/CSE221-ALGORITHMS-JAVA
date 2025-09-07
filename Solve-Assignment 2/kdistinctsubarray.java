@@ -1,4 +1,4 @@
-// Task F block
+//F. Longest K-Distinct Subarray
 
 import java.io.*;
 import java.util.*;

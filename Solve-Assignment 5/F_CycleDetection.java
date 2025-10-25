@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class F_CycleDetection{
     static ArrayList<Integer>[] g;
     static int[] vis;
     static boolean hasCycle;

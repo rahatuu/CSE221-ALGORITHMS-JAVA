@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class againMST{
     static class Edge implements Comparable<Edge> {
         int u, v, w, idx;
         Edge(int u,int v,int w,int idx){this.u=u;this.v=v;this.w=w;this.idx=idx;}
